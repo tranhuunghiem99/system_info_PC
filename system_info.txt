@@ -1,0 +1,8 @@
+System Model: AMD64
+System Type: 64bit
+OS Name & Version: Windows-10-10.0.19045-SP0
+BIOS Version: ('ALASKA - 1072009', 'FA', 'American Megatrends - 50013')
+Disk: 120028393472
+User Name: JKAPC
+Installed Physical Memory: 8411054080
+Processor: Intel64 Family 6 Model 165 Stepping 3, GenuineIntel
